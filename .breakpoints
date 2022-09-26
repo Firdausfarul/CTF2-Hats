@@ -1,0 +1,20 @@
+{
+  "files": {
+    "artifacts/contracts/ERC4626ETH.sol/ERC4626ETH.json": [
+      {
+        "id": "4e6a854f-5485-4cdb-9a14-3f39c2036829",
+        "line": 21,
+        "version": 1,
+        "index": 455
+      }
+    ],
+    "index.js": [
+      {
+        "id": "31de9fcc-c503-46ba-9154-1341496cce74",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ]
+  }
+}
